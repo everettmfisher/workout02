@@ -1,0 +1,12 @@
+name: workout02-everett-fisher
+title: workout02-everett-fisher
+username:
+account: everettmfisher
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 873385
+bundleId: 2020125
+url: https://everettmfisher.shinyapps.io/workout02-everett-fisher/
+when: 1555549224.69796
+asMultiple: FALSE
+asStatic: FALSE
